@@ -1,10 +1,11 @@
 using Banco;
+using NUnit.Framework;
 namespace TestesConta
 {
-    [TestClass]
+    [TestFixture]
     public class TesteContaBancaria
     {
-        [TestMethod]
+        [Test]
         public void TesteSaqueSucesso()
         {
             // Arrange
@@ -19,7 +20,7 @@ namespace TestesConta
             Assert.IsTrue(resultadoTrue);
         }
 
-        [TestMethod]
+        [Test]
         public void TesteSaqueFalha()
         {
             // Arrange
@@ -34,7 +35,7 @@ namespace TestesConta
             Assert.IsFalse(resultadoFalse); 
         }
 
-        [TestMethod]
+        [Test]
         public void TesteDepositar()
         {
             // Arrange

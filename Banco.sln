@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Banco", "Banco\Banco.csproj", "{A719B1BD-5A17-40D5-8B71-5D031504CF41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Banco", "Banco\Banco.csproj", "{A719B1BD-5A17-40D5-8B71-5D031504CF41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestesConta", "TestesConta\TestesConta.csproj", "{58FFCDCC-D986-4058-9EF5-AB2F40DEBF32}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestNUnit", "TestNUnit\TestNUnit.csproj", "{2EC71576-53CF-45B8-8C7F-EC26BF124801}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{A719B1BD-5A17-40D5-8B71-5D031504CF41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A719B1BD-5A17-40D5-8B71-5D031504CF41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A719B1BD-5A17-40D5-8B71-5D031504CF41}.Release|Any CPU.Build.0 = Release|Any CPU
-		{58FFCDCC-D986-4058-9EF5-AB2F40DEBF32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{58FFCDCC-D986-4058-9EF5-AB2F40DEBF32}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{58FFCDCC-D986-4058-9EF5-AB2F40DEBF32}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{58FFCDCC-D986-4058-9EF5-AB2F40DEBF32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EC71576-53CF-45B8-8C7F-EC26BF124801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EC71576-53CF-45B8-8C7F-EC26BF124801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EC71576-53CF-45B8-8C7F-EC26BF124801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EC71576-53CF-45B8-8C7F-EC26BF124801}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
