@@ -1,0 +1,12 @@
+C:\Users\ytalo\OneDrive\Documents\repos\Teste Unitário\Banco\Banco\obj\Debug\net6.0\Banco.csproj.AssemblyReference.cache
+C:\Users\ytalo\OneDrive\Documents\repos\Teste Unitário\Banco\Banco\obj\Debug\net6.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ytalo\OneDrive\Documents\repos\Teste Unitário\Banco\Banco\obj\Debug\net6.0\Banco.AssemblyInfoInputs.cache
+C:\Users\ytalo\OneDrive\Documents\repos\Teste Unitário\Banco\Banco\obj\Debug\net6.0\Banco.AssemblyInfo.cs
+C:\Users\ytalo\OneDrive\Documents\repos\Teste Unitário\Banco\Banco\obj\Debug\net6.0\Banco.csproj.CoreCompileInputs.cache
+C:\Users\ytalo\OneDrive\Documents\repos\Teste Unitário\Banco\Banco\bin\Debug\net6.0\Banco.deps.json
+C:\Users\ytalo\OneDrive\Documents\repos\Teste Unitário\Banco\Banco\bin\Debug\net6.0\Banco.dll
+C:\Users\ytalo\OneDrive\Documents\repos\Teste Unitário\Banco\Banco\bin\Debug\net6.0\Banco.pdb
+C:\Users\ytalo\OneDrive\Documents\repos\Teste Unitário\Banco\Banco\obj\Debug\net6.0\Banco.dll
+C:\Users\ytalo\OneDrive\Documents\repos\Teste Unitário\Banco\Banco\obj\Debug\net6.0\refint\Banco.dll
+C:\Users\ytalo\OneDrive\Documents\repos\Teste Unitário\Banco\Banco\obj\Debug\net6.0\Banco.pdb
+C:\Users\ytalo\OneDrive\Documents\repos\Teste Unitário\Banco\Banco\obj\Debug\net6.0\ref\Banco.dll
