@@ -1,9 +1,10 @@
-﻿namespace Banco
+﻿
+namespace Banco
 {
     public class ContaBancaria
     {
-        public int saldo;
-        public string CPF;
+        public int saldo { get; set; }
+        public string CPF { get; set; }
 
         public ContaBancaria(int valor, string cpf)
         {
@@ -13,9 +14,18 @@
 
         public bool Saque(int valorParaSacar)
         {
-            if ( saldo < valorParaSacar)
+            if (saldo < valorParaSacar)
             {
                 return false;
+            }
+            else if (valorParaSacar < 0)
+            {
+                return false;
+            }
+            else if (valorParaSacar == 0)
+            {
+                Thread.Sleep(2000);
+                throw new ArgumentOutOfRangeException("Valor invalido");
             }
             else
             {
@@ -26,7 +36,7 @@
 
         public bool Depositar(int valorDepositado)
         {
-            saldo = saldo+ valorDepositado;
+            saldo = saldo + valorDepositado;
             return true;
         }
 
