@@ -1,4 +1,6 @@
 using Banco;
+using Moq;
+using System.Security.Cryptography.X509Certificates;
 
 namespace ContaTest.NUnit
 {
@@ -6,13 +8,13 @@ namespace ContaTest.NUnit
     public class TestContaBancaria
     {
         ContaBancaria Conta;
-
-        [SetUp]
+        
+        [OneTimeSetUp]
         public void Setup()
         {
-            Conta = new ContaBancaria(400, "0001");
+            Conta = new ContaBancaria(400, "0001", "55");
         }
-
+ 
 
         [Test]
         [Category("Validos")]
@@ -66,6 +68,16 @@ namespace ContaTest.NUnit
         {
             Assert.Throws<ArgumentOutOfRangeException>(delegate { Conta.Saque(0); });
         }
+
+
+        [Test]
+        public void TestValidadorCredito()
+        {
+            Conta.SetValidador(new ValidadorCreditoFake());
+            bool Resultado = Conta.SolicitarEmprestimo(1200);
+            Assert.AreEqual(Resultado, true);
+        }
+
 
 
     }

@@ -1,0 +1,12 @@
+C:\Users\ytalo\OneDrive\Documents\repos\Teste Unitário\Banco\Preços\bin\Debug\net6.0\Preços.deps.json
+C:\Users\ytalo\OneDrive\Documents\repos\Teste Unitário\Banco\Preços\bin\Debug\net6.0\Preços.dll
+C:\Users\ytalo\OneDrive\Documents\repos\Teste Unitário\Banco\Preços\bin\Debug\net6.0\Preços.pdb
+C:\Users\ytalo\OneDrive\Documents\repos\Teste Unitário\Banco\Preços\obj\Debug\net6.0\Preços.csproj.AssemblyReference.cache
+C:\Users\ytalo\OneDrive\Documents\repos\Teste Unitário\Banco\Preços\obj\Debug\net6.0\Preços.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ytalo\OneDrive\Documents\repos\Teste Unitário\Banco\Preços\obj\Debug\net6.0\Preços.AssemblyInfoInputs.cache
+C:\Users\ytalo\OneDrive\Documents\repos\Teste Unitário\Banco\Preços\obj\Debug\net6.0\Preços.AssemblyInfo.cs
+C:\Users\ytalo\OneDrive\Documents\repos\Teste Unitário\Banco\Preços\obj\Debug\net6.0\Preços.csproj.CoreCompileInputs.cache
+C:\Users\ytalo\OneDrive\Documents\repos\Teste Unitário\Banco\Preços\obj\Debug\net6.0\Preços.dll
+C:\Users\ytalo\OneDrive\Documents\repos\Teste Unitário\Banco\Preços\obj\Debug\net6.0\refint\Preços.dll
+C:\Users\ytalo\OneDrive\Documents\repos\Teste Unitário\Banco\Preços\obj\Debug\net6.0\Preços.pdb
+C:\Users\ytalo\OneDrive\Documents\repos\Teste Unitário\Banco\Preços\obj\Debug\net6.0\ref\Preços.dll
